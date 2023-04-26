@@ -29,4 +29,4 @@ plugins=(git one-character)
 | y|yarn
 
 ## Contirbuting
-You are welcome to raise issue or pull requests :happy:
+You are welcome to raise issue or pull requests :smiley:
