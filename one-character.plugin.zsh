@@ -1,0 +1,11 @@
+alias a=aws
+alias b=bash
+alias c=curl
+alias d=docker
+alias g=git
+alias l="ls -l"
+alias n=npm
+alias p=python
+alias s=ssh
+alias v=vim
+alias y=yarn
