@@ -24,7 +24,7 @@ plugins=(git one-character)
 | l|ls -l
 | n|npm
 | p|python
-| s|ssh
+| s|sudo
 | v|vim
 | y|yarn
 

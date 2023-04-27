@@ -6,6 +6,6 @@ alias g=git
 alias l="ls -l"
 alias n=npm
 alias p=python
-alias s=ssh
+alias s=sudo
 alias v=vim
 alias y=yarn
