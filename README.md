@@ -23,7 +23,7 @@ plugins=(git one-character)
 | g|git
 | l|ls -l
 | n|npm
-| p|python
+| p|python3
 | s|sudo
 | v|vim
 | y|yarn
