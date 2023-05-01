@@ -8,7 +8,12 @@ Oh-my-zsh plugin for one character alias for most used commands.
 ```bash
 git clone https://github.com/ablil/one-character $HOME/.oh-my-zsh/custom/plugins/one-character
 ```
-3. Add the plugin to `/.zshrc`
+or 
+```bash
+gh repo clone ablil/one-character
+```
+
+2. Add the plugin to `/.zshrc`
 ```bash
 plugins=(git one-character)
 ```
