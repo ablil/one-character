@@ -27,8 +27,9 @@ plugins=(git one-character)
 | d|docker
 | g|git
 | l|ls -l
+| m|make
 | n|npm
-| p|python3
+| p|python
 | s|sudo
 | v|vim
 | y|yarn
