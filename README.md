@@ -25,14 +25,28 @@ plugins=(git one-character)
 | b|bash
 | c|curl
 | d|docker
+| e|echo
+| f|find
 | g|git
+| h|htop
+| i|ip
+| j|jq
+| k|kubectl
 | l|ls -l
 | m|make
 | n|npm
+| o|open
 | p|python
+| q|exit
+| r|rsync
 | s|sudo
+| t|terraform
+| u|unzip
 | v|vim
+| w|wget
+| x|xargs
 | y|yarn
+| z|zip
 
 ## Contirbuting
 You are welcome to raise issue or pull requests :smiley:
